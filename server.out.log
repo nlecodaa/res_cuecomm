@@ -1,0 +1,11 @@
+INFO:     127.0.0.1:64107 - "GET /classify?text=cylinder%20blast%20in%20chanakyapuri%20many%20injured HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64108 - "POST /admin/reclassify HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51543 - "GET /classify?text=fire%20in%20chankaya%20puri HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62182 - "GET / HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:49671 - "GET /static/js/citizen.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:62182 - "GET /static/css/styles.css HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:62182 - "GET /incidents/public HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61530 - "POST /report HTTP/1.1" 201 Created
+INFO:     127.0.0.1:58380 - "POST /report HTTP/1.1" 201 Created
+INFO:     127.0.0.1:57390 - "POST /report HTTP/1.1" 201 Created
+INFO:     127.0.0.1:50156 - "POST /report HTTP/1.1" 201 Created

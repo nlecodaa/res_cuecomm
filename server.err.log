@@ -1,0 +1,9 @@
+INFO:     Started server process [27968]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:63053 - "WebSocket /ws?role=citizen" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     127.0.0.1:49758 - "WebSocket /ws?role=citizen" [accepted]
+INFO:     connection open
